@@ -1,1 +1,1 @@
-placeholder README
+# property-providers [![Build Status](https://travis-ci.org/pvorb/property-providers.svg?branch=master)](https://travis-ci.org/pvorb/property-providers) [![Code Coverage](https://codecov.io/gh/pvorb/property-providers/branch/master/graph/badge.svg)](https://codecov.io/gh/pvorb/property-providers)
